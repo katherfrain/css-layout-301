@@ -1,0 +1,22 @@
+.totalscreen{
+    height: 100vh;
+    width: 100vw;
+}
+.googlelogo{
+    display: flex;
+    align-items: center;
+    margin: 50vw auto 0 auto;
+    width: 500px;
+}
+.googlelogo img{
+    width: 20vw;
+    height: 10vh
+}
+
+.search-bar {
+    display: flex;
+    width: 600px;
+    border: 5px solid orange;
+    justify-content: space-between;
+
+}
